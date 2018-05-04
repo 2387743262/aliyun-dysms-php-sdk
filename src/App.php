@@ -1,5 +1,5 @@
 <?php
-namespace snhccm\aliyun\sms;
+namespace qss\aliyun\sms;
 
 require_once ('../vendor/autoload.php');
 

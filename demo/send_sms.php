@@ -7,7 +7,7 @@
  */
 require_once ('../vendor/autoload.php');
 
-use snhccm\aliyun\sms\App;
+use qss\aliyun\sms\App;
 
 //开发者KEY 密钥
 $accessKeyId            = '';
